@@ -1,4 +1,4 @@
-# prediccion-comportamiento-clientes
+# Prediccion-Comportamiento-Clientes
 Proyecto de Machine Learning para predecir el comportamiento de compra de clientes mediante Regresión Logística.
 # Predicción del Comportamiento de Compra de Clientes
 
